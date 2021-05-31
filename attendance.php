@@ -54,7 +54,7 @@
 									$att_ids = array();
 									foreach($attendance[$key]['log'] as $k => $v) :
 									 ?>
-									 <div class="col-sm-6" style="">
+									 <div class="col-sm-6" >
 										<p>
 											<small><b><?php echo $lt_arr[$k].": <br/>" ?>
 												
